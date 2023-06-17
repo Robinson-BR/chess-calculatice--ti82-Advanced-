@@ -1,0 +1,11 @@
+un curseur clignotant qui permet de suivre le curseur avec autre chose que les coordonnées
+le curseur n'est plus réinitialisé au coordonnées A1 à la fin de chaque déplacement de pièce
+ajout du numéro de la version au lancement du programme
+on ne peut plus déplacer une case vide
+les pions qui arrivent au bout se transforment en dame
+empécher que les pions mangent les pions de leur propre camp
+
+(pas encore fait) restreindre les mouvement des pièces à leur capacité en jeu
+(pas encore fait) des menus
+(pas encore fait) une possibilité de sauvegarder la partie
+(pas encore fait) un lexique des pièces
